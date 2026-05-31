@@ -1,6 +1,6 @@
-# TurfNation
+# Turfio
 
-TurfNation is a full-stack turf booking platform that enables users to discover, book, and manage sports turf reservations online. The application provides a seamless booking experience with a modern user interface and a robust backend powered by Spring Boot.
+Turfio is a full-stack turf booking platform that enables users to discover, book, and manage sports turf reservations online. The application provides a seamless booking experience with a modern user interface and a robust backend powered by Spring Boot.
 
 ## Features
 
@@ -33,7 +33,7 @@ TurfNation is a full-stack turf booking platform that enables users to discover,
 ## Project Structure
 
 ```text
-TurfNation/
+Turfio/
 ├── frontend/
 │   ├── src/
 │   ├── public/
@@ -53,7 +53,7 @@ TurfNation/
 
 ```bash
 git clone <repository-url>
-cd TurfNation
+cd Turfio
 ```
 
 ### Frontend Setup
